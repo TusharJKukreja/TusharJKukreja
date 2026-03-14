@@ -1,12 +1,13 @@
 # Hi 👋 I'm Tushar
 
-**OTM Consultant | Builder of Useful Tools**
+**Oracle Transportation Management (OTM) Consultant**  
+Builder of tools, automation, and small utilities around logistics systems.
 
-Working with logistics systems during the day and building utilities at night.
+Working with transportation systems during the day and experimenting with automation, tools, and developer utilities in my spare time.
 
 ---
 
-## ⚙️ What I Work With
+## ⚙️ Tech & Tools
 
 ```
 Oracle Transportation Management
@@ -19,36 +20,47 @@ REST Integrations
 
 ---
 
-## 🧰 Things I Like Building
+## 🧰 What I Like Building
 
 - Tools that simplify **OTM consulting workflows**
-- **Python automation** for repetitive tasks
-- Small **web apps** that improve productivity
-- **AI utilities** for developers
+- **Python automation** for repetitive operational tasks
+- Small **web utilities** for developers and consultants
+- Experiments with **AI-powered developer tools**
 
 ---
 
-## 🚧 Current Projects
+## 📚 Knowledge Sharing
 
-### OTM Tool Suite
-Utilities designed to simplify everyday Oracle Transportation Management tasks.
+I regularly document and share practical learnings from working with **Oracle Transportation Management**.
 
-### OTM Automation Kit
-Python-based automation scripts for common workflows.
+### LinkedIn Series
+**100 Days of OTM**
 
-### Your Own Dashboard
-A lightweight productivity dashboard for managing bookmarks, queries, and developer tools.
+A structured learning series where I break down real-world OTM concepts including:
+
+- Shipment lifecycle
+- Dock scheduling
+- Agents & automation
+- Financial flows
+- Architecture concepts
+- Integrations and workflows
+
+### OTM Blogs
+
+I also write technical breakdowns explaining OTM features, concepts, and real-world scenarios to make the platform easier to understand for consultants and developers.
 
 ---
 
-## 🧠 Currently Exploring
+## 🤝 Contributions
 
-```
-Python Automation
-Developer Tooling
-AI Utilities
-Logistics Technology
-```
+This GitHub is my **public workspace** where I:
+
+- Build small utilities
+- Experiment with automation
+- Share tools that can help other developers and OTM consultants
+- Document technical ideas and workflows
+
+Older repositories and experiments are kept private as this profile is a **clean workspace focused on current work and tools**.
 
 ---
 
@@ -58,12 +70,4 @@ Pune, India 🇮🇳
 
 ---
 
-## ℹ️ Note
-
-This GitHub profile is my **new public workspace** for tools, experiments, and projects.
-
-Older repositories and experiments are kept private.
-
----
-
-⭐ If any project here helps you, feel free to star it.
+⭐ If any project or idea here helps you, feel free to star the repository.
