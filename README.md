@@ -24,7 +24,7 @@ REST Integrations
 
 - Tools that simplify **OTM consulting workflows**
 - **Python automation** for repetitive operational tasks
-- Small **web utilities** for developers and consultants**
+- Small **web utilities** for developers and consultants
 
 ---
 
